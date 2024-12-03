@@ -1,0 +1,14 @@
+/home/nicolas/projects/adventOfCode/dag3/bin/Debug/net8.0/dag3
+/home/nicolas/projects/adventOfCode/dag3/bin/Debug/net8.0/dag3.deps.json
+/home/nicolas/projects/adventOfCode/dag3/bin/Debug/net8.0/dag3.runtimeconfig.json
+/home/nicolas/projects/adventOfCode/dag3/bin/Debug/net8.0/dag3.dll
+/home/nicolas/projects/adventOfCode/dag3/bin/Debug/net8.0/dag3.pdb
+/home/nicolas/projects/adventOfCode/dag3/obj/Debug/net8.0/dag3.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/projects/adventOfCode/dag3/obj/Debug/net8.0/dag3.AssemblyInfoInputs.cache
+/home/nicolas/projects/adventOfCode/dag3/obj/Debug/net8.0/dag3.AssemblyInfo.cs
+/home/nicolas/projects/adventOfCode/dag3/obj/Debug/net8.0/dag3.csproj.CoreCompileInputs.cache
+/home/nicolas/projects/adventOfCode/dag3/obj/Debug/net8.0/dag3.dll
+/home/nicolas/projects/adventOfCode/dag3/obj/Debug/net8.0/refint/dag3.dll
+/home/nicolas/projects/adventOfCode/dag3/obj/Debug/net8.0/dag3.pdb
+/home/nicolas/projects/adventOfCode/dag3/obj/Debug/net8.0/dag3.genruntimeconfig.cache
+/home/nicolas/projects/adventOfCode/dag3/obj/Debug/net8.0/ref/dag3.dll
