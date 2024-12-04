@@ -20,8 +20,17 @@ foreach(Match match in matches) {
     int a = Convert.ToInt32(parts[0].Replace("mul(", ""));
     int b = Convert.ToInt32(parts[1].Replace(")",""));
 
-    int latestOn = onMatches.Where(onMatch => onMatch.Index < match.Index).OrderByDescending(onMatch => onMatch.Index).Select(onMatch => onMatch.Index).DefaultIfEmpty(-1).First();
-    int latestOf = ofMatches.Where(ofMatch => ofMatch.Index < match.Index).OrderByDescending(ofMatch => ofMatch.Index).Select(ofMatch => ofMatch.Index).DefaultIfEmpty(-1).First();
+    int latestOn = onMatches.Where(onMatch => onMatch.Index < match.Index)
+        .OrderByDescending(onMatch => onMatch.Index)
+        .Select(onMatch => onMatch.Index)
+        .DefaultIfEmpty(-1)
+        .First();
+
+    int latestOf = ofMatches.Where(ofMatch => ofMatch.Index < match.Index)
+        .OrderByDescending(ofMatch => ofMatch.Index)
+        .Select(ofMatch => ofMatch.Index)
+        .DefaultIfEmpty(-1)
+        .First();
     
     if(latestOn < latestOf)
         continue;
