@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K3ti81JV3GC3PCzRYnXekEPtCNEGZZK/3cXSnNnaUZ19VNlfDpOYRRNUHJ6EMOSJFbmugfhyOdwcrs5scvS+YQ==",
+  "success": true,
+  "projectFilePath": "/home/nicolas/projects/adventOfCode/day5/day5.csproj",
+  "expectedPackageFiles": [
+    "/home/nicolas/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
