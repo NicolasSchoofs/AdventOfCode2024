@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/nicolas/projects/AdventOfCode2024/day6/day6.csproj": {}
+    "/home/nicolas/projects/adventOfCode/day6/day6.csproj": {}
   },
   "projects": {
-    "/home/nicolas/projects/AdventOfCode2024/day6/day6.csproj": {
+    "/home/nicolas/projects/adventOfCode/day6/day6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/nicolas/projects/AdventOfCode2024/day6/day6.csproj",
+        "projectUniqueName": "/home/nicolas/projects/adventOfCode/day6/day6.csproj",
         "projectName": "day6",
-        "projectPath": "/home/nicolas/projects/AdventOfCode2024/day6/day6.csproj",
+        "projectPath": "/home/nicolas/projects/adventOfCode/day6/day6.csproj",
         "packagesPath": "/home/nicolas/.nuget/packages/",
-        "outputPath": "/home/nicolas/projects/AdventOfCode2024/day6/obj/",
+        "outputPath": "/home/nicolas/projects/adventOfCode/day6/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/nicolas/.nuget/NuGet/NuGet.Config"
