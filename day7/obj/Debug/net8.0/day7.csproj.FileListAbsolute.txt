@@ -1,0 +1,15 @@
+/home/nicolas/projects/adventOfCode/day7/bin/Debug/net8.0/day7
+/home/nicolas/projects/adventOfCode/day7/bin/Debug/net8.0/day7.deps.json
+/home/nicolas/projects/adventOfCode/day7/bin/Debug/net8.0/day7.runtimeconfig.json
+/home/nicolas/projects/adventOfCode/day7/bin/Debug/net8.0/day7.dll
+/home/nicolas/projects/adventOfCode/day7/bin/Debug/net8.0/day7.pdb
+/home/nicolas/projects/adventOfCode/day7/obj/Debug/net8.0/day7.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolas/projects/adventOfCode/day7/obj/Debug/net8.0/day7.AssemblyInfoInputs.cache
+/home/nicolas/projects/adventOfCode/day7/obj/Debug/net8.0/day7.AssemblyInfo.cs
+/home/nicolas/projects/adventOfCode/day7/obj/Debug/net8.0/day7.csproj.CoreCompileInputs.cache
+/home/nicolas/projects/adventOfCode/day7/obj/Debug/net8.0/day7.sourcelink.json
+/home/nicolas/projects/adventOfCode/day7/obj/Debug/net8.0/day7.dll
+/home/nicolas/projects/adventOfCode/day7/obj/Debug/net8.0/refint/day7.dll
+/home/nicolas/projects/adventOfCode/day7/obj/Debug/net8.0/day7.pdb
+/home/nicolas/projects/adventOfCode/day7/obj/Debug/net8.0/day7.genruntimeconfig.cache
+/home/nicolas/projects/adventOfCode/day7/obj/Debug/net8.0/ref/day7.dll
